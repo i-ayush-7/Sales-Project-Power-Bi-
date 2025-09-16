@@ -1,6 +1,6 @@
 # Sales-Project-Power-Bi-
 
-![Power BI Dashboard](https://github.com/i-ayush-7/Spotify-Data-Analysis-Project/blob/main/Spotify%20Logo.jpg)
+![Power BI Dashboard](https://github.com/i-ayush-7/Sales-Project-Power-Bi-/blob/main/Dashboard%20Image.png)
 
 
 ## Project Learnings
